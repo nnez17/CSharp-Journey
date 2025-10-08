@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1AqwRWjlE4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noval\\Documents\\CSharp\\CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noval\\.nuget\\packages\\sharprompt\\3.0.1\\sharprompt.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
