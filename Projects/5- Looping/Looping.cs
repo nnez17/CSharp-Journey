@@ -1,5 +1,3 @@
-using System.Data.SqlTypes;
-
 namespace Looping;
 
 public class Perulangan
@@ -203,4 +201,5 @@ public class Perulangan
 
         Console.WriteLine($"Total = {total}");
     }
+
 }
