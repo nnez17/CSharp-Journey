@@ -23,7 +23,7 @@ class Program
       .ToList();
 
     // First prompt selecting namespace
-    var selectedNamespace = Prompt.Select("Choose a namespace", namespaces);
+    var selectedNamespace = Prompt.Select("⋆༺𓆩 Choose a namespace 𓆪༻⋆", namespaces);
 
     // Filter method of selected namespace
     var methodsInNamespace = allMethods
@@ -36,7 +36,7 @@ class Program
       .ToList();
 
     // Second pormpt selecting Class.Method
-    var selectedMethod = Prompt.Select($"Choose a project from {selectedNamespace}", options);
+    var selectedMethod = Prompt.Select($"「 Choose a project from {selectedNamespace} 」", options);
 
     Console.WriteLine();
 
